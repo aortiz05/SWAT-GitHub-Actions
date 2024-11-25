@@ -9,7 +9,7 @@ def print_username():
     else:
         print("La variable de entorno USERNAME no está definida.")
  
-if __name__ == "__main__":
+if __name__ == "__main__": 
     print_username()   
 
     
