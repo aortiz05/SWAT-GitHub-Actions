@@ -1,7 +1,7 @@
 import os
 
 def print_username():
-    # Obtener el valor de la variable de entorno USERNAME
+    # Obtener el valor de la variable de entorno USERNAME  
     username = os.getenv('USERNAME')
     
     if username:
